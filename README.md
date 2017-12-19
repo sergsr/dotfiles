@@ -15,5 +15,4 @@ installed):
 and this will inject ~/ with the contents of dir-with-chunk-name as links to the
 dotfiles directory
 
-[For more info]
-(http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
