@@ -1,0 +1,9 @@
+export JOT_FILE="$HOME/notes/jot.txt"
+
+jot() {
+  if [ ! -z "$1" ]; then
+    echo \[$(date)\] $@ >> $JOT_FILE
+  else
+    echo \[$(date)\] "$(cat)" >> $JOT_FILE
+  fi
+}
