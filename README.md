@@ -17,13 +17,3 @@ dotfiles directory
 
 [For more info]
 (http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
-
-### Useful Resources:
-
-
-- XMonad & xmobar:
-    - [general XMonad]
-      (https://wiki.archlinux.org/index.php/xmonad)
-    - [xmobar]
-      (http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Hooks-DynamicLog.html)
-
