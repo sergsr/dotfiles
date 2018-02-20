@@ -70,6 +70,9 @@
   # commit - amend the tip of the current branch, and do not edit the message.
   can = commit --amend --no-edit
 
+  # commit all changes by amending tip of current branch, do not edit message
+  caan = commit -a --amend --no-edit
+
   # commit - amend the tip of the current branch, and edit the message.
   cam = commit --amend --message
 
